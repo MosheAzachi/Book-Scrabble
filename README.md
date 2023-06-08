@@ -20,32 +20,32 @@ However, the valid words in the game are not all the words in the English dictio
 
 - A small board containing a letter and its value in the game - the number of points the letter is worth.
 - In the following diagram, you can see how much each letter is worth in the game:
- 
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Tiles.png" alt="Tiles" width="500px" height="300px">
+
+<img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/Tiles.png" alt="Tiles" width="500px" height="300px">
 - However, unlike the original game, there are no two blank tiles available in this version.
 
 ### Bag
 
 - A bag containing 98 tiles
 - Allows players to randomly draw tiles (i.e., without seeing them beforehand).
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Bag.png" alt="Bag" width="225px" height="150px">
+  <img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/Bag.png" alt="Bag" width="225px" height="150px">
 
 - The number of tiles in the bag for each letter at the beginning of the game:
 
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Values.png" alt="Values" width="500px" height="60px">
+<img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/Values.png" alt="Values" width="500px" height="60px">
 
 ### The Game Board
 
 - 15x15 two-dimensional board
 - The board features several bonus slots:
-  - The central square (marked with a star) doubles the value of the word written on it.
-  - Squares that double the value of the letter on them (light blue).
-  - Squares that triple the value of the letter on them (blue).
-  - Squares that double the value of the entire word (yellow).
-  - Squares that triple the value of the entire word (red).
+    - The central square (marked with a star) doubles the value of the word written on it.
+    - Squares that double the value of the letter on them (light blue).
+    - Squares that triple the value of the letter on them (blue).
+    - Squares that double the value of the entire word (yellow).
+    - Squares that triple the value of the entire word (red).
 - The bonus slots are distributed as shown in the following diagram:
 
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Board.png" alt="Board" width="600px" height="600px">
+<img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/Board.png" alt="Board" width="600px" height="600px">
 
 
 ## Rules And Gameplay
@@ -78,8 +78,8 @@ A legal word must meet all the following conditions:
 - Does not produce other illegal words on the board.
 
 ## Team Division & GANTT
-<img src="https://github.com/cohenaviv2/Book-Scrabble/blob/master/resources/workDivision.png" alt="WorkDivision" width="1100px" height="500px">
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/resources/GANTT.png" alt="GANTT" width="1100px" height="500px">
+<img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/workDivision.png" alt="WorkDivision" width="1100px" height="500px">
+<img src="https://github.com/MosheAzachi/Book-Scrabble/blob/main/resources/GANTT.png" alt="GANTT" width="1100px" height="500px">
 
 ## Credits
 - [Aviv Cohen](https://github.com/cohenaviv2)
